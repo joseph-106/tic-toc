@@ -1,16 +1,28 @@
 # tictoc
 
-A new Flutter project.
+Flutter based TikTok clone
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Project Setup
+- [ ] Authentication
+- [ ] Onboarding
+- [ ] Tab Navigation
+- [ ] Video Timeline
+- [ ] Comments Section
+- [ ] Discover
+- [ ] Inbox
+- [ ] Chats
+- [ ] User Profile
+- [ ] Settings
+- [ ] Responsive Flutter Web
+- [ ] Dark Mode
+- [ ] App Translation
+- [ ] Navigator
+- [ ] Firebase Setup
+- [ ] User Authentication
+- [ ] Firestore Persistence
+- [ ] Custom Video Recorder
+- [ ] File Upload
+- [ ] Thumbnail Extraction
+- [ ] Unit Testing
