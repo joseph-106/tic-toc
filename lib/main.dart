@@ -3,11 +3,11 @@ import 'package:tictoc/constants/sizes.dart';
 import 'package:tictoc/features/authentication/sign_up_screen.dart';
 
 void main() {
-  runApp(const TikTokApp());
+  runApp(const TicTocApp());
 }
 
-class TikTokApp extends StatelessWidget {
-  const TikTokApp({super.key});
+class TicTocApp extends StatelessWidget {
+  const TicTocApp({super.key});
 
   @override
   Widget build(BuildContext context) {
