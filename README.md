@@ -5,7 +5,7 @@ Flutter based TikTok clone
 ## Requirements
 
 - [x] Project Setup
-- [ ] Authentication
+- [x] Authentication
 - [ ] Onboarding
 - [ ] Tab Navigation
 - [ ] Video Timeline
