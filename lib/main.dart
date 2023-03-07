@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/gestures.dart';
 import 'package:tictoc/constants/sizes.dart';
 import 'package:tictoc/features/onboarding/interests_screen.dart';
 
@@ -27,6 +28,14 @@ class TicTocApp extends StatelessWidget {
             fontWeight: FontWeight.w600,
           ),
         ),
+      ),
+      scrollBehavior: const MaterialScrollBehavior().copyWith(
+        dragDevices: {
+          PointerDeviceKind.mouse,
+          PointerDeviceKind.touch,
+          PointerDeviceKind.stylus,
+          PointerDeviceKind.unknown
+        },
       ),
       home: const InterestsScreen(),
     );
