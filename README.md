@@ -6,7 +6,7 @@ Flutter based TikTok clone
 
 - [x] Project Setup
 - [x] Authentication
-- [ ] Onboarding
+- [x] Onboarding
 - [ ] Tab Navigation
 - [ ] Video Timeline
 - [ ] Comments Section
